@@ -1,3 +1,6 @@
+* [English](./README.md) | * [Tiếng Việt](./README_vi.md)
+
+
 # Thư viện xiaozhi-mcp
 
 Thư viện này là thư viện máy khách MCP cho nền tảng ESP32 Xiaozhi. Nó kết nối các thiết bị ESP32 với nền tảng Xiaozhi thông qua plugin MCP. Nó hỗ trợ đăng ký và gọi công cụ, và có thể điều khiển thiết bị thông qua loa Xiaozhi AI.
