@@ -1,4 +1,4 @@
-* [Tiếng Việt](./README_vi.md)
+* [English](./README.md) | * [Tiếng Việt](./README_vi.md)
 
 # xiaozhi-mcp library
 
