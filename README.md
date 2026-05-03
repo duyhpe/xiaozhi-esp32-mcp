@@ -1,3 +1,5 @@
+* [Tiếng Việt](./README_vi.md)
+
 # xiaozhi-mcp library
 
 This library is the MCP client library for the ESP32 Xiaozhi platform. It connects ESP32 devices to the Xiaozhi platform via the MCP plugin. It supports tool registration and invocation, and can control the device through the Xiaozhi AI speaker.
